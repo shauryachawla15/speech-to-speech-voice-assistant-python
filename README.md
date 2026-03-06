@@ -89,12 +89,7 @@ source venv/bin/activate
 
 ---
 
-### 4️⃣ Output
-
-```
-<img width="616" height="467" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/c81a03a5-4922-4f1c-a4f8-a061a9d8c9b8" />
-
-```
+`
 
 ---
 
@@ -179,4 +174,5 @@ Developed as a learning project to understand **speech-to-speech AI systems in P
 
 # ⭐ If you like this project
 
-Consider giving it a **star on GitHub** ⭐
+<img width="616" height="467" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/85b82c3a-acea-4270-b638-6c737758d7bf" />
+
